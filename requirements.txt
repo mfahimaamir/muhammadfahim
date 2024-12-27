@@ -112,7 +112,6 @@ isoduration==20.11.0
 itables==0.2.2
 itsdangerous==2.2.0
 jedi==0.19.1
-Jinja2==3.0.1
 jmespath==1.0.1
 joblib==1.4.2
 json5==0.10.0
