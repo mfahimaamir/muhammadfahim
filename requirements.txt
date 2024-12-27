@@ -225,8 +225,6 @@ python-multipart==0.0.19
 python-openstackclient==7.2.1
 python-socketio==5.11.4
 pytz==2024.2
-pywin32==308
-pywinpty==2.0.14
 PyYAML==6.0.2
 pyzmq==26.2.0
 quickjs==1.19.4
