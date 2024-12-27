@@ -17,7 +17,6 @@ async-lru==2.0.4
 attrs==24.2.0
 autopage==0.5.2
 babel==2.16.0
-backoff==2.2.1
 beautifulsoup4==4.12.3
 bidict==0.23.1
 bleach==6.2.0
@@ -324,5 +323,4 @@ wsproto==1.2.0
 xarray==2024.11.0
 xlrd==2.0.1
 yarl==1.18.3
-zipp==3.21.0
 zstandard==0.23.0
